@@ -1,0 +1,143 @@
+[
+{
+  "model": "bio.bio",
+  "pk": 3,
+  "fields": {
+    "name": "Aqsa Abdul Razzaq",
+    "job_title": "AI Engineer (Aspiring) | Machine Learning & Generative AI",
+    "profile_picture": "profile/profile.jfif",
+    "description": "Detail-oriented Artificial Intelligence undergraduate with a strong foundation in Machine Learning, NLP, and intelligent automation. Experienced in designing and implementing AI-driven solutions, including predictive models, recommendation systems, NLP pipelines, and workflow automation.\r\n\r\nHands-on experience with Python-based AI development, data analysis, API integration, and both code-based and no-code automation tools. Actively building end-to-end AI systems that bridge data, intelligence, and real-world applications, with a growing focus on Generative AI and scalable AI engineering solutions.\r\n\r\nDriven by problem-solving, continuous learning, and the goal of creating impactful, production-ready AI systems."
+  }
+},
+{
+  "model": "education.degree",
+  "pk": 2,
+  "fields": {
+    "title": "Bachelor of Science in Artificial Intelligence",
+    "institution": "University of Management & Technology (UMT), Lahore",
+    "year_start": 2023,
+    "year_end": 2027,
+    "grade": "CGPA : 3.2 / 4.0"
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 1,
+  "fields": {
+    "name": "Generative AI",
+    "proficiency": 95
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 2,
+  "fields": {
+    "name": "Python",
+    "proficiency": 90
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 3,
+  "fields": {
+    "name": "Machine Learning",
+    "proficiency": 85
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 4,
+  "fields": {
+    "name": "NLP (Natural Language Processing)",
+    "proficiency": 80
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 5,
+  "fields": {
+    "name": "TensorFlow / PyTorch",
+    "proficiency": 81
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 6,
+  "fields": {
+    "name": "Workflow Automation & API Integration",
+    "proficiency": 85
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 7,
+  "fields": {
+    "name": "Generative AI (GPT, Stable Diffusion, etc.)",
+    "proficiency": 80
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 8,
+  "fields": {
+    "name": "Django (Web Development & AI Integration)",
+    "proficiency": 80
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 9,
+  "fields": {
+    "name": "HTML, CSS, JavaScript (Frontend Development)",
+    "proficiency": 90
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 10,
+  "fields": {
+    "name": "Workflow Automation & API Integration (OpenAI API,",
+    "proficiency": 85
+  }
+},
+{
+  "model": "skills.skill",
+  "pk": 11,
+  "fields": {
+    "name": "Data Analysis & Visualization (Pandas, NumPy, Matp",
+    "proficiency": 80
+  }
+},
+{
+  "model": "experience.job",
+  "pk": 1,
+  "fields": {
+    "role": "AI Engineer (Project-Based)",
+    "company": "Independent / Academic & Personal Projects",
+    "start_date": "2025-01-02",
+    "end_date": "2026-01-23",
+    "is_current": true,
+    "description": "Working as a project-based AI Engineer alongside academic studies, designing and developing end-to-end AI solutions using Machine Learning, NLP, and automation tools. Actively involved in building predictive models, recommendation systems, intelligent chatbots, and data-driven applications.\r\n\r\nHands-on experience with Python, Scikit-learn, TensorFlow, PyTorch, SQL, and Neo4j, along with workflow automation and API integration. Focused on translating theoretical knowledge into practical, production-oriented AI systems through continuous project development and experimentation."
+  }
+},
+{
+  "model": "experience.project",
+  "pk": 1,
+  "fields": {
+    "title": "Personal Portfolio Website (Full-Stack)",
+    "description": "A dynamic portfolio built with Django, Python, and SQLite. Features a custom-built admin dashboard for content management, automated static site generation using django-distill, and modern responsive design using Tailwind CSS. Deployed on Netlify.",
+    "image": "",
+    "link": ""
+  }
+},
+{
+  "model": "experience.project",
+  "pk": 2,
+  "fields": {
+    "title": "AI Chatbot Contributor – Zygotrix AI",
+    "description": "Description:\r\nCollaborated with the Zygotrix AI team to enhance an intelligent genetics chatbot designed for research and education. Contributed to building context-aware, AI-powered conversational systems that assist users in exploring inheritance patterns, understanding complex genetic concepts, and running automated simulations.\r\n\r\nDeveloped NLP modules for query understanding, intent detection, and entity extraction.\r\nIntegrated AI responses with workflow automation for seamless simulation control.\r\nOptimized chatbot performance to provide real-time, context aware assistance across genetics tools.\r\n\r\nImpact:\r\n\r\nImproved user interaction and educational guidance within Zygotrix AI.\r\nDemonstrated practical application of AI in genomics research tools.\r\nStrengthened skills in AI system integration, NLP, and intelligent automation.",
+    "image": "",
+    "link": "https://zygotrix.com"
+  }
+}
+]
